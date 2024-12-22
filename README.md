@@ -1,6 +1,6 @@
 # Enemy Door Speed Multipiler Dumper
 
-Lethal Company Mod to dump enemy door open multipiler values on joining a lobby.
+Lethal Company Mod to dump enemy door open speed multipiler values on joining a lobby.
 
 ## Development
 
